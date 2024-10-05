@@ -136,7 +136,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stb_image.h" />
-    <ClInclude Include="stb_image_resize2.h" />
+    <ClInclude Include="stb_image_resize.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,8 +1,1 @@
-﻿  main.cpp
-C:\Users\quoca\OneDrive\Documents\Nambon\xulianh\OPENCVTEST\opencv\opencv\main.cpp(70,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\quoca\OneDrive\Documents\Nambon\xulianh\OPENCVTEST\opencv\opencv\main.cpp(142,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\quoca\OneDrive\Documents\Nambon\xulianh\OPENCVTEST\opencv\opencv\main.cpp(154,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\quoca\OneDrive\Documents\Nambon\xulianh\OPENCVTEST\opencv\opencv\main.cpp(187,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\quoca\OneDrive\Documents\Nambon\xulianh\OPENCVTEST\opencv\opencv\main.cpp(199,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\quoca\OneDrive\Documents\Nambon\xulianh\OPENCVTEST\opencv\opencv\main.cpp(215,25): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-  opencv.vcxproj -> C:\Users\quoca\OneDrive\Documents\Nambon\xulianh\OPENCVTEST\opencv\x64\Debug\opencv.exe
+﻿
